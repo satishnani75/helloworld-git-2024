@@ -29,8 +29,6 @@ git update from master
 updated master branch for pull command
 30 lien updated in master
 31 line updated by master
-
 32 line updated by featuer1
 
 update from 1.1 branch..
-
