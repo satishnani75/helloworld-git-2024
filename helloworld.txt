@@ -12,4 +12,11 @@ commit form new branch 22
 
 commit from feature1.1
 
-git updated from online
+release 1 update
+
+git gui update
+
+git desktop update
+
+
+git update after online update
